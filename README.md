@@ -36,23 +36,7 @@ LimitPocket is a **full-stack finance tracking application** built with a **mobi
 - Follows **MVVM architecture** for better code management and scalability.
 - Built entirely with **Kotlin** using Android Studio.
 
-### 🌐 Web App (React.js)
-
-- A supplementary React.js web frontend (under separate repo or planned).
-- Designed for syncing user data with backend services.
-
-### 🧩 Backend (Node.js + Express)
-
-- Node.js backend used for managing API endpoints and future sync support.
-- RESTful APIs designed for future integration with cloud databases like MongoDB.
-
----
-
-## 🖼️ Screenshots
-
-> Screenshots of the app UI will be added here soon.
-
----
+ 
 
 ## 📂 Project Structure
 limit-pocket-mobile-app-V2/
@@ -76,7 +60,6 @@ limit-pocket-mobile-app-V2/
 
 - Android Studio (latest version recommended)
 - Kotlin SDK
-- Node.js (if using backend)
 - Git
 
 ### 🧑‍💻 Steps to Run
